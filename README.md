@@ -9,10 +9,12 @@
 <div align="center">
 
  🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💻 I am a Front End Developer 
+🌟 Main languages: HTML, CSS, JavaScript, Vuejs
+📚 I am an information technology student of The University of Danang - University of Science and Technology
+📝 I have a strong interest in Web Design
+💖 In a complicated relationship with code
+🎵 Love lofi and soft music
  
  </div>
 
