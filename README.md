@@ -10,8 +10,6 @@
 
  🌍 I'm based in Vietnamese 
  
- 💻 I am a Front End Developer 
- 
  🌟 Main languages: HTML, CSS, JavaScript, Reactjs
  
  📚 I am an information technology student of Ho Chi Minh City Industry and Trade College
