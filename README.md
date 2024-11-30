@@ -33,7 +33,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,java,github,gitlab,express,firebase,mongodb" /><br>
   <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,typescript,redux,styledcomponents,laravel,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,,html,css,sass,tailwind,vscode,figma,xd,ps,git,postman" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,tailwind,vscode,figma,xd,ps,git,postman" />
 </div
   <br/><br/><br/>
 <hr/>
