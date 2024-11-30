@@ -9,12 +9,18 @@
 <div align="center">
 
  🌍 I'm based in Vietnamese 
-💻 I am a Front End Developer 
-🌟 Main languages: HTML, CSS, JavaScript, Vuejs
-📚 I am an information technology student of The University of Danang - University of Science and Technology
-📝 I have a strong interest in Web Design
-💖 In a complicated relationship with code
-🎵 Love lofi and soft music
+ 
+ 💻 I am a Front End Developer 
+ 
+ 🌟 Main languages: HTML, CSS, JavaScript, Vuejs
+ 
+ 📚 I am an information technology student of The University of Danang - University of Science and Technology
+ 
+ 📝 I have a strong interest in Web Design
+ 
+ 💖 In a complicated relationship with code
+ 
+ 🎵 Love lofi and soft music
  
  </div>
 
